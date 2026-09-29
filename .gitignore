@@ -42,3 +42,6 @@ Thumbs.db
 
 # Preprocessed datasets
 processed_*/
+
+# ZIP files
+*.zip
