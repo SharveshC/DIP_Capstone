@@ -39,3 +39,6 @@ Thumbs.db
 # ================================
 *.log
 *.tmp
+
+# Preprocessed datasets
+processed_*/
